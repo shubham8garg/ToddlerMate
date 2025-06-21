@@ -53,7 +53,7 @@ st.markdown("""
         margin: 5px;   /* Margin between tiles */
         border: 1px solid #5A4BAD; /* Slightly darker border */
         word-wrap: break-word; /* Ensure long words break */
-        height: 200px; /* Fixed height for tiles - adjust as needed */
+        height: 50px; /* Fixed height for tiles - adjust as needed */
         display: flex;
         flex-direction: column;
         justify-content: space-between; /* Pushes content and links apart */
